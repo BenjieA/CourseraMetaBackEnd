@@ -14,7 +14,7 @@ Mr. Carl Merkel owns a small business named CM Mobiles that sells mobile devices
 This information is displayed in the following table:
 <br>
 ### Mobile Devices Table  
-<br>
+
 | Device ID | Device name    | Price    |
 |-----------|----------------|----------|
 | 1         | iPhone XR 1    | 1500.50  |
@@ -33,7 +33,7 @@ All the columns and data types of the devices table are displayed.
 Mr. Merkel wants to create another basic table in the database to store data about the stock of the devices including device ID, quantity available in the stock and total available cost of the quantity. This basic table is shown in the table below, with each column showing device ID, the quanity in stock and the total price. 
 <br>
 ### Stock table 
-<br>
+
 | Device ID | Quantity | Total price |
 |-----------|----------|-------------|
 | 1         | 5        | 5000.75     |

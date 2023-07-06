@@ -1,10 +1,10 @@
 # C1M2L1 – (Exercise: Working with numbers)
 <br><br>
-##Goal 
+## Goal 
 
 The goal of this exercise is for you to learn how to work with numerical values in a database. The objective of the exercise is that you will be able to demonstrate how to work with numerical data types in SQL. In this exercise, you will learn about two main variations of numeric data types. 
 <br>
-##Task 1
+## Task 1
 
 Mr. Carl Merkel owns a small business named CM Mobiles that sells mobile devices. He wants to create a database to store key information about mobile devices. This information includes: 
 *	The device ID or number, 
@@ -13,7 +13,7 @@ Mr. Carl Merkel owns a small business named CM Mobiles that sells mobile devices
 <br>
 This information is displayed in the following table:
 <br>
-###Mobile Devices Table  
+### Mobile Devices Table  
 <br>
 | Device ID | Device name    | Price    |
 |-----------|----------------|----------|
@@ -28,11 +28,11 @@ This information is displayed in the following table:
 <br>
 All the columns and data types of the devices table are displayed.
 
-##Additional task (optional)
+## Additional task (optional)
 
 Mr. Merkel wants to create another basic table in the database to store data about the stock of the devices including device ID, quantity available in the stock and total available cost of the quantity. This basic table is shown in the table below, with each column showing device ID, the quanity in stock and the total price. 
 <br>
-###Stock table 
+### Stock table 
 <br>
 | Device ID | Quantity | Total price |
 |-----------|----------|-------------|

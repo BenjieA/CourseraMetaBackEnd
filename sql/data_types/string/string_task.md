@@ -4,9 +4,12 @@
 
 
 The goal of this exercise is for you to learn how to work with string values in a database. The objective is to allow you to practice working with string data types in SQL. This exercise focuses on the two most used string datatypes in SQL: CHAR and VARCHAR.
+| username  | Full Name        | Email                   |
+|-----------|------------------|-------------------------|
+| Custom001 | John Johnson     | J.Johnson@email.com     |
+| Custom002 | Carl Schmidt     | Carl.Schmidt@email.com  |
+| Custom003 | Yara Suliman     | Yara.Suliman@email.com  |
 
-
-![Customer table](WorkingWithStringsImages/Picture1.png)
 
 
 #### Instructions
@@ -135,7 +138,11 @@ Mr. Carl Merkel wants to create another basic table in the cm_devices database t
 The feedback table is illustrated below.
 <br>
 
-![Feedback table](WorkingWithStringsImages/Picture5.png)
+| Feedback ID | Feedback type | Feedback comment                                               |
+|-------------|---------------|----------------------------------------------------------------|
+| Feed0001    | Good          | It is a very good product but the delivery was not great.      |
+| Feed0002    | Very good     | No comment                                                     |
+
 
  
 You are required to complete the following tasks:
